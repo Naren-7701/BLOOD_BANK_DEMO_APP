@@ -11,3 +11,4 @@ A Simple Blood Bank Android App developed using Jetpack Compose (Kotlin).
 3. UI improvements.
 4. User Authentication.
 5. Different Android Permissions.
+6. Code Compression.
