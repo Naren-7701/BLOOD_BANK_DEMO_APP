@@ -1,7 +1,8 @@
 # BLOOD_BANK_DEMO_APP
-A Simple Blood Bank Application developed using Jetpack Compose (Kotlin). 
+A Simple Blood Bank Android App developed using Jetpack Compose (Kotlin). 
 1. First Activity: Basic Registration Details. 
-2. Second Activity: Verify Detail. On successful verification, a Confirmation message is sent to the Registered Mobile Number.
+2. Second Activity: Verify Detail. 
+3. On successful verification, a Confirmation message is sent to the Registered Mobile Number.
 <hr>
 
 **FUTURE WORK: **
