@@ -5,7 +5,7 @@ A Simple Blood Bank Android App developed using Jetpack Compose (Kotlin).
 3. On successful verification, a Confirmation message is sent to the Registered Mobile Number.
 <hr>
 
-**FUTURE WORK: **
+**FUTURE WORK**
 1. Firebase can be Added.
 2. Database can be integrated.
 3. UI improvements.
